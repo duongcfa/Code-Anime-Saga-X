@@ -14,7 +14,7 @@
 			"NumberValue": {
 				"Gems": 5000,
 				"Gold": 10000,
-        "SnowCoins": 1000,
+       			"SnowCoins": 1000
 			},
 			"Items": {
 				"TraitReroll": 20,
@@ -38,7 +38,7 @@
 			"NumberValue": {
 				"Gems": 2000,
 				"Gold": 8000,
-        "SnowCoins": 2500,
+        		"SnowCoins": 2500
 			},
 			"Items": {
 				"TraitReroll": 25
