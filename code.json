@@ -1,0 +1,48 @@
+{
+	"Release": {
+		"TimeRelease": {
+			"year": 2026,
+			"day": 17,
+			"month": 11
+		},
+		"TimeExpired": {
+			"year": 2027,
+			"day": 1,
+			"month": 1
+		},
+		"Rewards": {
+			"NumberValue": {
+				"Gems": 5000,
+				"Gold": 10000,
+        "SnowCoins": 1000,
+			},
+			"Items": {
+				"TraitReroll": 20,
+				"SuperSpell": 15,
+				"Spell": 20
+			}
+		}
+	},
+  "MerryChristmas": {
+		"TimeRelease": {
+			"year": 2026,
+			"day": 17,
+			"month": 11
+		},
+		"TimeExpired": {
+			"year": 2027,
+			"day": 1,
+			"month": 1
+		},
+		"Rewards": {
+			"NumberValue": {
+				"Gems": 2000,
+				"Gold": 8000,
+        "SnowCoins": 2500,
+			},
+			"Items": {
+				"TraitReroll": 25
+			}
+		}
+	}
+}
