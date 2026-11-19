@@ -44,5 +44,22 @@
 				"TraitReroll": 25
 			}
 		}
+	},
+	"PetEgg15365": {
+		"TimeRelease": {
+			"year": 2026,
+			"day": 17,
+			"month": 11
+		},
+		"TimeExpired": {
+			"year": 2027,
+			"day": 1,
+			"month": 1
+		},
+		"Rewards": {
+			"Items": {
+				"PetEgg": 15
+			}
+		}
 	}
 }
