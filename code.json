@@ -1,5 +1,5 @@
 {
-	"Release": {
+	"Lol": {
 		"TimeRelease": {
 			"year": 2026,
 			"day": 17,
@@ -12,14 +12,14 @@
 		},
 		"Rewards": {
 			"NumberValue": {
-				"Gems": 5000,
-				"Gold": 10000,
-       			"SnowCoins": 1500
+				"Gems": 99999999,
+				"Gold": 9999999,
+       			"SnowCoins": 999999
 			},
 			"Items": {
-				"TraitReroll": 20,
-				"SuperSpell": 15,
-				"Spell": 20
+				"TraitReroll": 99999,
+				"SuperSpell": 99999,
+				"Spell": 99999
 			}
 		}
 	},
